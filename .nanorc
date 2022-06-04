@@ -1,0 +1,9 @@
+set linenumbers
+set autoindent
+set emptyline
+set guidestripe 81
+set indicator
+set positionlog
+set smarthome
+set tabsize 4
+
