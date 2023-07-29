@@ -1,0 +1,4 @@
+XTerm.vt100.scrollBar: true
+XTerm.vt100.scrollbar.width: 8
+XTerm.vt100.faceName: Monospace
+XTerm.vt100.faceSize: 14
